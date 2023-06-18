@@ -19,7 +19,9 @@ No installations are required for this project.
 
 To get the application running, click on the deployment link below.
 
-![screenshot of the input](./screenshot.png)
+Deployment link: https://laurenmiller389.github.io/code-refactor/
+
+![screenshot of the input](./assets/images/screenshot.png)
 
 ## Credits
 
